@@ -13,3 +13,13 @@ Here is a mailbox to put coupons in
 ## Deployment
 
 Send the files to the reviewers
+
+## Good People
+
+Heather, SJ
+
+
+## Acknowledge achievements
+
+Hydrogen is light and Osmium is heavy
+
