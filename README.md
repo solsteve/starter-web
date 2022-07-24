@@ -23,3 +23,6 @@ Heather, SJ
 
 Hydrogen is light and Osmium is heavy
 
+### Copyright
+
+Copyright (c) ME
