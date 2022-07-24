@@ -7,7 +7,6 @@ Please leave review
 
     <name> -- <role> -- <twitter>
     Jason Taylor jason@aol.com
-    David Duke   dd@kk.com
     Alex Alex    AA@yahoo.com
     
 # THANKS
