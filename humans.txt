@@ -10,8 +10,7 @@
     
 # THANKS
 
-    <name>
-
+    Mips and Bilbo
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
