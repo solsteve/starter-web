@@ -4,6 +4,8 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Jason Taylor jason@aol.com
+    David Duke   dd@kk.com
 
 # THANKS
 
