@@ -15,6 +15,7 @@ Please fork thehn PR
 ## Deployment
 
 Send the files to the reviewers
+And pray that the do not kill you
 
 ## Good People
 
